@@ -79,7 +79,7 @@ In the UK, the Office for National Statistics (ONS) is the largest producer of o
 
 Detailed tables are published alongside this report. These include the source data for all the charts and commentary and additional breakdowns (see [Appendix B](public-awareness-of-and-trust-in-official-statistics-northern-ireland-`r current_year`-appendix-b.html)).
 
-Differences are only noted in the commentary when they are likely to represent a real difference taking account of the margin of error in the sample-based estimates (see ‘Survey Estimates’ in [Appendix A](#Appendix_A:_Methodology_and_Quality_Information) for further detail).
+Differences are only noted in the commentary when they are likely to represent a real difference taking account of the margin of error in the sample-based estimates (see ‘Survey Estimates’ in [Appendix A](#appendix-a-methodology-and-quality-information) for further detail).
 
 `r f_borderline()`
 
