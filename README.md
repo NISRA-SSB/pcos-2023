@@ -65,8 +65,6 @@ Enter the following lines of code in the R terminal (one at a time, pressing Ent
 
 ```         
 git config --global http.sslVerify false
-git config --global http.proxy http://cloud-lb.nigov.net:8080
-git config --global https.proxy https://cloud-lb.nigov.net:8080
 git config --global user.name "YourUsername"
 git config --global user.email firstname.lastname@nisra.gov.uk
 ```
